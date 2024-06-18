@@ -25,4 +25,4 @@ print(results)
 
 cv2.imshow('Will Smith', imgWill)
 cv2.imshow('Will Test', imgTest)
-cv2.waitkey(0)
+cv2.waitKey(0)
